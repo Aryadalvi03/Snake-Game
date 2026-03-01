@@ -26,4 +26,4 @@ Clone the repository, open the project in any Java IDE or VS Code, compile the m
 ## Author
 
 Arya Arvind Dalvi  
-BTech Computer Engineering Student
+BE Computer Engineering Student
